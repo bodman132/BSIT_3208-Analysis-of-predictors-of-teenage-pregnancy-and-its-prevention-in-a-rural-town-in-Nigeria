@@ -10,7 +10,6 @@ This study was therefore designed to determine the recent prevalence and identif
 
 This   study seek to answer the following questions:
 
-- What are the ways to prevent teenage pregnancy?
 - Why many teenagers engage in early pregnancy?
 - What are the effects of early pregnancy for the health of teenager who are involved?
 - Why teenagers are suffering early pregnancy?
