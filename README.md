@@ -5,3 +5,15 @@ Teenage pregnancy might contribute to the cycle of poverty WHO . In addition to 
 A vast literature describing randomized, controlled trials clearly demonstrates that interventions with attention to specific elements can be successful in reducing and preventing sexual risk behaviours including unwanted pregnancy among teenagers . However, available data indicate that intervention effects from such campaign wane over time, there is a paucity of information regarding long-term effects from prevention efforts and factors that may sustain such effects, particularly among preadolescents and adolescents as they mature and face changing personal and social environments . Several social factors such as religious beliefs, idleness and economic factors have been identified as factors contributing to early pregnancy and marriage.
 ## Statement of the problem
 
+This study was therefore designed to determine the recent prevalence and identify factors associated with teenage pregnancy in a semi rural area in Nigeria. This has implications in the development of policies that will reduce the incidence of teenage pregnancy and give equal access to essential facilities which subsequently improve the health of the adolescents in low income countries such as Nigeria.
+
+
+This   study seek to answer the following questions:
+
+- What are the ways to prevent teenage pregnancy?
+- Why many teenagers engage in early pregnancy?
+- What are the effects of early pregnancy for the health of teenager who are involved?
+- Why teenagers are suffering early pregnancy?
+- What ages are usually involved in early pregnancy?
+- Why teenagers are sexually active?
+- What are the prevention of early pregnancy?
