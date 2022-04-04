@@ -17,3 +17,23 @@ This   study seek to answer the following questions:
 - What ages are usually involved in early pregnancy?
 - Why teenagers are sexually active?
 - What are the prevention of early pregnancy?
+## Significance of the study
+The proposed project overall goal is to provide  what are the government solutions of engaging early pregnancy,  what ages most number of early pregnancy, the causes and effects and the number of ages who engaged sexual intercourse. 
+Having this kind of data sets have it's own advantage,
+
+- To provide the means to examine the numbers of people who engage premarital sex.
+- Knowing the causes why teenager engage sexual activities.
+- To have an better understanding what would be effects of early pregnancy.
+- To stop promoting early pregnancy
+
+## This study will be beneficial for:
+
+Student Mothers. They could gain insight about their situation and be aware of their responsibilities as both parent and student.
+
+To teenagers are the one that are affected on this research. Maybe this research can help them to know what are they will gonna do if this topic will also comes to their self. Also they can know the effects of this case and the disadvantages for them. 
+## Methods
+This was an analytical cross-sectional study that quantitatively explored the factors associated with teenage pregnancy.
+## Expected output
+The overall goal of this project analytics is to provide datasets about the factors why teenager in Nigeria are engaging in early pregnancy. In order to determine what was the possible solutions of government about early pregnancy. 
+## Reference
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3771409/
