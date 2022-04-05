@@ -36,3 +36,4 @@ This was an analytical cross-sectional study that quantitatively explored the fa
 The overall goal of this project analytics is to provide datasets about the factors why teenager in Nigeria are engaging in early pregnancy. In order to determine what was the possible solutions of government about early pregnancy. 
 ## Reference
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3771409/
+https://dhsprogram.com/Who-We-Are/News-Room/Teenage-Pregnancy-in-Nigeria-Facts-and-Truth.cfm
