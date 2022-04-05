@@ -20,7 +20,7 @@ This   study seek to answer the following questions:
 The proposed project overall goal is to provide  what are the government solutions of engaging early pregnancy,  what ages most number of early pregnancy, the causes and effects and the number of ages who engaged sexual intercourse. 
 Having this kind of data sets have it's own advantage,
 
-- To provide the means to examine the numbers of people who engage premarital sex.
+- To determine the total population of teenage pregnancy.
 - Knowing the causes why teenager engage sexual activities.
 - To have an better understanding what would be effects of early pregnancy.
 - To stop promoting early pregnancy
