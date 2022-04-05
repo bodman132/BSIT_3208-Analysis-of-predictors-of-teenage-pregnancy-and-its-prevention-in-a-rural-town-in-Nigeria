@@ -25,8 +25,7 @@ Having this kind of data sets have it's own advantage,
 - To have an better understanding what would be effects of early pregnancy.
 - To stop promoting early pregnancy
 
-## This study will be beneficial for:
-
+This study will be beneficial to : 
 Student Mothers. They could gain insight about their situation and be aware of their responsibilities as both parent and student.
 
 To teenagers are the one that are affected on this research. Maybe this research can help them to know what are they will gonna do if this topic will also comes to their self. Also they can know the effects of this case and the disadvantages for them. 
@@ -38,3 +37,4 @@ The overall goal of this project analytics is to provide datasets about the fact
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3771409/
 https://dhsprogram.com/Who-We-Are/News-Room/Teenage-Pregnancy-in-Nigeria-Facts-and-Truth.cfm
 https://dhsprogram.com/data/available-datasets.cfm
+
