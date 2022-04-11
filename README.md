@@ -5,8 +5,7 @@ Pregnancy among teenagers may play a role.There are significant costs associated
 A large body of evidence from randomized, controlled trials shows that interventions focused on certain features can be effective in lowering and avoiding sexual risk behaviors, such as unplanned pregnancy, among teenagers. However, available data show that the intervention effects of such campaigns fade over time, and there is a scarcity of information about long-term prevention effects and factors that may sustain such effects, particularly among preadolescents and adolescents as they mature and face changing personal and social environments. Several societal factors have been recognized as contributing to early pregnancy and marriage, including religious views, inactivity, and economic circumstances.
 ## Statement of the problem
 
-This study was therefore designed to determine the recent prevalence and identify factors associated with teenage pregnancy in a semi rural area in Nigeria. This has implications in the development of policies that will reduce the incidence of teenage pregnancy and give equal access to essential facilities which subsequently improve the health of the adolescents in low income countries such as Nigeria.
-
+The purpose of this study was to assess the current prevalence of teenage pregnancy in a semi-rural area of Nigeria, as well as the factors that contribute to it. This has consequences for the establishment of policies that will prevent teen pregnancy and provide equal access to vital services, thereby improving the health of adolescents in low-income nations like Nigeria.
 
 This   study seek to answer the following questions:
 
