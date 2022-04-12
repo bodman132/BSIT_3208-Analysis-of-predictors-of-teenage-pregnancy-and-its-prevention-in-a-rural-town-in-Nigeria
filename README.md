@@ -40,3 +40,8 @@ https://dhsprogram.com/Who-We-Are/News-Room/Teenage-Pregnancy-in-Nigeria-Facts-a
 
 https://dhsprogram.com/data/available-datasets.cfm
 
+https://openaccesspub.org/ijhs/article/1631
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7550904/
+
+https://data.worldbank.org/indicator/SP.ADO.TFRT?end=2019&locations=NG&start=2019&view=bar
