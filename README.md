@@ -22,16 +22,18 @@ Having this kind of data sets have it's own advantage,
 - To determine the total population of teenage pregnancy.
 - Knowing the causes why teenager engage sexual activities.
 - To have an better understanding what would be effects of early pregnancy.
+- Factors what are the causes of early marriage in young ages.
 - To stop promoting early pregnancy
 
 This study will be beneficial to : 
 Student Mothers. They could gain insight about their situation and be aware of their responsibilities as both parent and student.
 
 To teenagers are the one that are affected on this research. Maybe this research can help them to know what are they will gonna do if this topic will also comes to their self. Also they can know the effects of this case and the disadvantages for them. 
+
 ## Methods
 This was an analytical cross-sectional study that quantitatively explored the factors associated with teenage pregnancy.
 ## Expected output
-The overall goal of this project analytics is to provide datasets about the factors why teenager in Nigeria are engaging in early pregnancy. In order to determine what was the possible solutions of government about early pregnancy. 
+Adolescent pregnancy is a public health and social issue that affects people all over the world. The prevalence of adolescent pregnancy, on the other hand, varies between and within countries. As a result, the goal of this study was to look into the spatial distribution of adolescent pregnancy in Nigeria as well as the factors that influence it. A number of factors will be discovered in the study that may influence the rate of teenage pregnancy in the areas. The overall purpose of this project analytics is to give datasets on the factors that lead to early pregnancy among Nigerian teenagers. In order to figure out what the government's options were for dealing with early pregnancy.
 ## Reference
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3771409/
@@ -45,3 +47,7 @@ https://openaccesspub.org/ijhs/article/1631
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7550904/
 
 https://data.worldbank.org/indicator/SP.ADO.TFRT?end=2019&locations=NG&start=2019&view=bar
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3437979/
+
+https://hrmars.com/papers_submitted/2610/Teenage_Pregnancy_in_Nigeria_Causes,_Effect_and_Control.pdf
